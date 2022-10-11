@@ -1,0 +1,25 @@
+{
+ "compilerOptions": {
+  "outDir": "./dist",
+  "noImplicitAny": false,
+  "module": "es6",
+  "target": "es6",
+  "baseUrl": "./src",
+  "allowJs": true,
+  "moduleResolution": "node",
+  "paths": {
+   "@hello": [
+    "module1/nested/hello.ts"
+   ],
+   "@world": [
+    "module2/world.ts"
+   ]
+  }
+ },
+ "exclude": [
+  "node_modules"
+ ],
+ "include": [
+  "./src/**/*"
+ ]
+}

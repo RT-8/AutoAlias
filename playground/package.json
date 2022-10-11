@@ -1,0 +1,11 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/hello_world.js",
+  "scripts": {
+    "build": "npx webpack --config ./playground.webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

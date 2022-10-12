@@ -60,7 +60,7 @@ module.exports = {
   ...
 };
 ```
-Make sure you have baseUrl defined inside your chosen tsconfig.json. You may find more information about baseURL [here]("https://www.typescriptlang.org/tsconfig#baseUrl").
+Make sure you have a baseUrl defined inside your chosen tsconfig.json. You may find more information about baseURL [here]("https://www.typescriptlang.org/tsconfig#baseUrl").
 
 ```json 
 {

@@ -19,5 +19,13 @@
     "dist"
   ],
   "name": "auto-alias",
-  "version": "1.0.1"
+  "version": "1.0.2",
+  "homepage": "https://github.com/RT-8/AutoAlias#readme",
+  "readme": "./dist/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RT-8/AutoAlias"
+  },
+  "description": "Automatic module alias generation for Webpack and TypeScript.",
+  "categories": ["auto-alias", "alias",  "Webpack", "TypeScript", "module"]
 }
